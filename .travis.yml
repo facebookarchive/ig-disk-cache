@@ -1,0 +1,19 @@
+branches:
+  only:
+    - master
+
+language: android
+
+android:
+  components:
+    - build-tools-21.1.2
+    - android-21
+    - doc-21
+  licenses:
+    - /android-sdk-license-[0-9a-f]{8}/
+
+script:
+  - ./gradlew clean testDebugUnitTest --info
+
+jdk:
+  - oraclejdk7
