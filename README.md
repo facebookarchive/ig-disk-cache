@@ -141,9 +141,9 @@ LICENSE file in the root directory of this source tree. An additional grant
 of patent rights can be found in the PATENTS file in the same directory.
 ```
 	 
- [eng-blog]: http://instagram-engineering.tumblr.com/
+ [eng-blog]: http://engineering.instagram.com/
  
- [build-status-svg]: https://travis-ci.org/Instagram/ig-disk-cache.svg?branch=master
+ [build-status-svg]: https://travis-ci.org/Instagram/ig-disk-cache.svg
  [build-status-link]: https://travis-ci.org/Instagram/ig-disk-cache
  [maven-svg]: https://maven-badges.herokuapp.com/maven-central/com.instagram.igdiskcache/ig-disk-cache/badge.svg?style=flat
  [maven-link]: https://maven-badges.herokuapp.com/maven-central/com.instagram.igdiskcache/ig-disk-cache
