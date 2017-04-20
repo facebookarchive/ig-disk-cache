@@ -1,4 +1,4 @@
-#IgDiskCache Demo
+# IgDiskCache Demo
 
 This is a simple image feed demo explaining how to use IgDiskCache in a real application. The demo uses IgDiskCache to cache the raw image files (downloaded directly from the network), and the resized Bitmaps after decode. 
 

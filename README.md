@@ -1,4 +1,4 @@
-#IgDiskCache
+# IgDiskCache
 
 [![Build Status][build-status-svg]][build-status-link]
 [![Maven Central][maven-svg]][maven-link]
@@ -9,10 +9,10 @@ Exception handling is always a cumbersome but unavoidable part of dealing with d
 
 For more Instagram engineering updates and shared insights, please visit the [Instagram Engineering blog][eng-blog].
 
-#Getting Started
+# Getting Started
 
 
-##Usage
+## Usage
 
 ### Initialization 
 
@@ -93,21 +93,21 @@ mDiskCache.flush();
 mDiskCache.close();
 ```
 
-##Compile a AAR
+## Compile a AAR
 
 ``` 
 ./gradlew clean assembleRelease
 ```
 Outputs can be found in igdiskcache/build/outputs/
 
-##Run the Tests
+## Run the Tests
 ```
 ./gradlew clean test
 ```
 
-#Download
+# Download
 
-##Maven
+## Maven
 
 ``` xml
 <dependency>
@@ -118,7 +118,7 @@ Outputs can be found in igdiskcache/build/outputs/
 </dependency>
 ```
 
-##Gradle
+## Gradle
 
 ``` groovy
 dependencies {
@@ -126,11 +126,11 @@ dependencies {
 }
 ```
 
-#Other Instagram Android Projects
+# Other Instagram Android Projects
 - [ig-json-parser for Android][ig-json-parser-link]
 
 
-#License
+# License
 
 ```	
 Copyright (c) 2016-present, Facebook, Inc.
